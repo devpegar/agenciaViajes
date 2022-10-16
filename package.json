@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/devpegar/agenciaViajes#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "pug": "^3.0.2",
+    "sequelize": "^6.25.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
